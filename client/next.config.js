@@ -10,7 +10,7 @@ module.exports = withPWA({
   reactStrictMode: true,
   env: {
     // Reference a variable that was defined in the .env file and make it available at Build Time
-    BACKEND_URL: "http://localhost:8080",
+    BACKEND_URL: "https://zany-teal-springbok-wig.cyclic.app",
   },
   staticPageGenerationTimeout: 160, // default is 60 seconds
   images: {
