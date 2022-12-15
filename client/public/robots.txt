@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://shodkk.com
+
+# Sitemaps
+Sitemap: https://shodkk.com/sitemap.xml

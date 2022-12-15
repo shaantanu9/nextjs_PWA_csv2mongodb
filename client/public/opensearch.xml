@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Shodkk | Blog | Web Development Company that expertise in creating Digital Products </ShortName>
+<Description>Become a Shodkk and Search and Build Whatever you Think, We are Web Development Company that help young enterpreneur create new product and Online tools for almost all Kind of web Development </Description>
+<Tags>Digital Products SAAS Saas Blog Tech</Tags>
+<Image height="16" width="16" type="image/vnd.microsoft.icon">https://shodkk.com/favicon.ico</Image>
+<Url type="text/html" template="https://shodkk.com/search?q={searchTerms}"/>
+<Query role="example" searchTerms="tool"/>
+</OpenSearchDescription>
