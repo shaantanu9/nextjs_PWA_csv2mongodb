@@ -66,6 +66,13 @@ const Login = (props) => {
               Lead Generation Made Easy. Get More Leads, More Calls, More Sales.
             </p>
           </div>
+          <h3 className="text-2xl font-bold text-center">
+            Username :{" "}
+            <span className="font-bold">shantanubombatkar2@gmail.com</span>
+          </h3>
+          <h3 className="text-2xl font-bold text-center">
+            Password : <span className="font-bold">Password@123</span>
+          </h3>
           <form
             onSubmit={handleSubmit}
             className="mx-auto mt-8 mb-0 max-w-md space-y-4"
